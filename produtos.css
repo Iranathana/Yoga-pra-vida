@@ -1,0 +1,27 @@
+cabeçalho {
+     fundo :  # fcf8f8 ;
+    }
+    
+    . caixa {
+            posição : relativa;
+            largura :  940px ; _
+    }
+
+
+    navegação {
+        posição : absoluta;
+        topo :  110 px ;
+        direita :  0 ;
+
+    }
+    nav  li {
+        exibição : em linha;
+        margem :  0  0  0  15 px ;
+    }
+    navegue  em {
+        text-transform : maiúsculas;
+        cor :  # ebe3e3ef ;
+        peso da fonte : negrito;
+        tamanho da fonte :  22px ;
+        decoração de texto : nenhuma;
+    }
